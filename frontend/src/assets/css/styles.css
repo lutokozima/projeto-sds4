@@ -6,6 +6,7 @@
 html, body {
     height: 100%;
     font-family: "Ubuntu", sans-serif;
+    
 }
 
 #root {
@@ -22,6 +23,7 @@ html, body {
     flex-shrink: 0;
     text-align: center;
 }
+
 
 .bg-primary {
     background-color: var(--color-primary) !important;
